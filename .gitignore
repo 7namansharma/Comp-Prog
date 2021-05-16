@@ -1,3 +1,5 @@
 # removing workspaces
-/C++/Workspaces
+/C++/Workspace
 /Python/Workspace
+#removing bin folder
+/bin
